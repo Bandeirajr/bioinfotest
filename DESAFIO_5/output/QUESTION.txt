@@ -1,0 +1,24 @@
+1 - Quantas sequências de DNA de paciente sequenciados temos nos arquivos de fastqs R1 e R2 respectivamente ?
+
+R1 - 64276
+R2 - 64276
+
+2 - Sobre o genoma humano hg19, quantos contigs tem o nosso genoma hg19 (hg19.fasta) aqui disponibilizado para este pipeline?
+
+R- o genoma hg19 possue 93 contigs 
+
+3 - Quantos alinhamentos há na região chr17:41197694-41197819 ? 
+
+R- Essa região possue 128616.
+
+4 - Quantos alinhamentos não conseguiram ser mapeados (unmapped alignments ?) 
+
+R- 2663 alinhamentos foram considerados unmapped
+
+5 - Realize o alinhamento das sequências FASTQ contra o genoma de referência hg19 aqui disponibilizado, e realize a chamada de variantes utilizando a região alvo BRCA.list (interesse apenas na região dos genes BRCA1 e BRCA2).  Realize a anotação de dados funcionais usando o SNPEFF.
+ Com este arquivo em mãos , responda as seguintes perguntas ?
+
+5.1- Quantas variantes existem com impacto funcional (Annotation_Impact) do tipo HIGH, MODERATE, LOW ? Existe alguma variante em HIGH ? Qual é cromossomo, posição e a alteração ?
+
+R- Foram encontradas seis variantes com impacto funcional HIGH, onde apenas uma é um SNP C>G no chr13 na posição 32914174 no gene BRCA2 gerando um stop_gained, as demais são causadas por variação no frameshift no chr17 na posição 41222948 no gene BRCA1, duas com impacto MODERATE e 14 com impacto LOW.
+
