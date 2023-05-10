@@ -333,5 +333,6 @@ The metrics were compared of samples processed in vars2 and vars3, in a general 
 
 ### New UMI metrics for each variant per sample
 
-The UMI metrics for all variants per sample processed in Vars 2 and Vars 3 can be found in the (link)[https://sbibae-my.sharepoint.com/:x:/r/personal/jose_bnj_einstein_br/Documents/Metrics_UMI_qiagen_germline.xlsx?d=w6857af667e49427fb4b8ee1610286c35&csf=1&web=1&e=LOrHe8].
+The UMI metrics for all variants per sample processed in Vars 2 and Vars 3 can be found in the [link](https://sbibae-my.sharepoint.com/:x:/r/personal/jose_bnj_einstein_br/Documents/Metrics_UMI_qiagen_germline.xlsx?d=w6857af667e49427fb4b8ee1610286c35&csf=1&web=1&e=LOrHe8).
+.
 
